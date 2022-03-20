@@ -4,6 +4,6 @@ This is the my first Assignment
 I'm a Bachelor of Arts at [University of Auckland](https://unidirectory.auckland.ac.nz/profile/a-fergusson). (majoring in Mathematics,Statsics)
 ### I love vedio games, Playstation is the Best!!!
 [God Of War]is my favorite IP
-![](GOF.png)
+![](GOW.webp)
 I made using the R package {magick}.
 ![](meme.png)
